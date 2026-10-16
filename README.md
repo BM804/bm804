@@ -78,6 +78,13 @@
 
 ---
 
+### 🐍 Python Code Collection
+> A collection of 45 standalone Python examples covering algorithms, data structures, graph search, concurrency, and practical utilities.
+- 📚 Includes beginner to advanced examples with a script index and run instructions
+- 🔗 [Explore the repository](https://github.com/BM804/python_codes)
+
+---
+
 ## 🏅 Certifications
 
 [![AWS ML](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/BM804)
