@@ -85,6 +85,13 @@
 
 ---
 
+### 🔌 Free Public APIs Directory
+> A searchable, open-source catalog of 69 public APIs across 29 categories, with official documentation and clear notes on keys, quotas, and usage terms.
+- 🌐 [Browse the API directory](https://bm804.github.io/free-public-apis/)
+- 📚 [View the catalog and contribute](https://github.com/BM804/free-public-apis)
+
+---
+
 ## 🏅 Certifications
 
 [![AWS ML](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/BM804)
