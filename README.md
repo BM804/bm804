@@ -89,6 +89,7 @@
 > A searchable, open-source catalog of 69 public APIs across 29 categories, with official documentation and clear notes on keys, quotas, and usage terms.
 - 🌐 [Browse the API directory](https://bm804.github.io/free-public-apis/)
 - 📚 [View the catalog and contribute](https://github.com/BM804/free-public-apis)
+- 💻 [Run examples in 18 programming languages](https://github.com/BM804/free-public-apis/tree/main/examples)
 
 ---
 
